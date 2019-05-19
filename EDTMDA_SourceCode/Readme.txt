@@ -6,6 +6,6 @@ The specific steps are shown as follows:
 
 (2) Please run EDTMDA.py to run the program (Remember not to change the file path).
 
-(3) You will obtain¡®prediction results for all unknown samples.xlsx¡¯, where the disease, miRNA, and score corresponding to the unknown sample are shown in each row.  
+(3) You will obtain 'prediction results for all unknown samples.xlsx', where the disease, miRNA, and score corresponding to the unknown sample are shown in each row.  
  
  
